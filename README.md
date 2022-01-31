@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **react-native**
 
-- 👨‍💻 All of my projects are available at [https://sanghreaajit.github.io/sangheraajit/](https://sanghreaajit.github.io/sangheraajit/)
+- 👨‍💻 All of my projects are available at [https://sangheraajit.github.io/sangheraajit/](https://sangheraajit.github.io/sangheraajit/)
 
 - 💬 Ask me about **.net,react-native,mssql**
 
 - 📫 How to reach me **sangheraajit@gmail.com**
 
-- 📄 Know about my experiences [https://sanghreaajit.github.io/sangheraajit/](https://sanghreaajit.github.io/sangheraajit/)
+- 📄 Know about my experiences [https://sangheraajit.github.io/sangheraajit/](https://sangheraajit.github.io/sangheraajit/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
