@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sangheraajit.github.io/sangheraajit/](https://sangheraajit.github.io/sangheraajit/)
 
-- 💬 Ask me about **.net,react-native,mssql**
+- 💬 Ask me about **.Net,Angular,React-native,MSSQL,MySQL,MongoDB,PostgreSQL,Micorservice,AWS EC2,Integrations**
 
 - 📫 How to reach me **sangheraajit@gmail.com**
 
